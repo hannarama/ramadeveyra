@@ -1,0 +1,57 @@
+body{ 
+
+background-color: #ededee;
+font-family: Trebuchet MS;
+
+ 
+} 
+
+*{
+margin: 0px;
+}
+
+
+ul {
+	
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #f98f92;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #f75d6f;
+	color: #  ff5a5f;
+}
+
+
+iframe {
+width: 700px;
+height: 500px;
+border: 10px;
+background-size: 500px
+
+}
+
+
+
+
+p { color: blue;  background-color: white } 
+h3{ color: black; }
+
+
